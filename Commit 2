@@ -1,0 +1,2 @@
+git add .
+git commit -m "Added functionality to register and view students"
